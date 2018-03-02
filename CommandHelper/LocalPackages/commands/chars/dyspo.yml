@@ -1,0 +1,37 @@
+maxHearts: 100
+alts:
+buffs:
+- /effect <plr> 5 9999 23 true
+- /effect <plr> 10 9999 1 true
+- /effect <plr> 11 9999 3 true
+- /effect <plr> 12 9999 1 true
+- /effect <plr> 13 9999 1 true
+- /shot give <plr> kiblast
+chatcolor: '&6'
+class: dyspo
+haste: 9
+jump: 9
+name: §4Dy§dsp§8o 
+op: 'false'
+permissions:
+  superherocity:
+  - powers.herotransform
+  - ch.alias.dismountplayer
+  - ch.alias.carryplayer
+  - essentials.fly
+  - essentials.speed.fly
+  - essentials.speed
+powers:
+- /buff
+- /jump <0-9>
+- /run <0-9>
+- /haste <0-9>
+- /flyspeed <number>
+- /fly
+- /carryplayer <player>
+- /dismountplayer
+run: 9
+sig: gr3smfoi00bogivzigmd/gI/uSH+usaSp1nD427vTxG34hWtp33LV92pNS0jiX3VVK0T2+N6uU3e+6YNTEAlTk8rpmCMA5Y/EaRdQS+ah5dUeVtG9D2vK9scB9eroSApTXsPzN3eJJjEMB1cIet3JcQBfwqyl+xFPPIAzHqOa7Vq3f/2pBjje2G1Wg5pL4tCxrYJ2daRYmY3MXrK70B+0LsqiWF2ZvvqeW/VrMeWiUmUszQTBXiyL+KVQIgB6OUKpFrXSYdVgYDgA8DSfW8i7JCxouKyaPPvcYUywN9zTII35pxx7bxiyAylPz9FV5mLuFmOu8kRPId0KRu6728EUuuAH4d6nJXFp8Lxbhw9omRp4gdyRvIhxbB/ean2JTWT+aoYnl6JpOePkFPqeG35nF2hiK3gqGFEcSesjz3gQe9SuA4vZ8L8+ZnWplTr9FEiG3NsMwGe6+mIc1+mQkHbRqu5dZLnlEAeid6zV1L9naXoqMuEnJuG34CgFp8nlQjDMF97Klm3RTWJNDqV42X+aTy1MOjUOl3MY+WkFPjP4Jwa7viB1JAmyWFDdhk1dCKeoIZzcrqYVL2yG6nfnbx4nLn1DgSBksvNAKkqiDhQFWlL2TvCORvWbekjmRqXcFOMiXrdwaw8LgsMwGrZ1iR34AeXVCEThpzDjD7NP9uQFPI=
+speech: I am the fastest in the UNIVERSE!!
+trail: ''
+val: eyj0aw1lc3rhbxaioje1mtk5ntawndk0mdcsinbyb2zpbgvjzci6ija4odbly2njzmvlzdrhmmy5ztiyzdhmnzixzjm5mtnliiwichjvzmlszu5hbwuioijazuvuzm9yy2vyiiwic2lnbmf0dxjlumvxdwlyzwqionrydwusinrlehr1cmvzijp7ilnlsu4ionsidxjsijoiahr0cdovl3rlehr1cmvzlm1pbmvjcmfmdc5uzxqvdgv4dhvyzs9jmznimmfmmthlmtc0nti1n2q5ztixnmzkztizzwy2mjzlndhjmta0ymfky2m1nzewntjlyzljmzbhzjgyoguifx19
